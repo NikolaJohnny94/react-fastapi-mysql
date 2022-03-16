@@ -2,10 +2,12 @@
 
 ### 📽️ [Preview](https://youtu.be/voSpGl-IwQo)
 
+### 👩‍💻 RPFM Stack
+
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="20px"/> [[R]eact.js](https://reactjs.org/)<br>
-<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="20px"/> [FastAPI](https://fastapi.tiangolo.com/)<br>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="20px"/> [Python](https://www.python.org/)<br>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="20px"/> [MySQL](https://www.mysql.com/) <br> +<br>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="20px"/> [[P]ython](https://www.python.org/)<br>
+<img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="20px"/> [[F]astAPI](https://fastapi.tiangolo.com/)<br>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="20px"/> [[M]ySQL](https://www.mysql.com/) <br> +<br>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="20px"/> [Redux](https://redux.js.org/) <br>
 &<br>
 <img src="https://banner2.cleanpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg" width="20px"/> [React-Bootstrap](https://react-bootstrap.github.io/) <br>
